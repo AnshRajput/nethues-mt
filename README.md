@@ -140,16 +140,6 @@ The `ScannerController` handles:
 - Invalid scan detection with user feedback
 - Proper navigation flow and error messages
 
-## 🎯 Scanner UI Design
-
-The scanner page implements the exact UI requirements:
-
-- **White border overlay** with rounded corners defining scanning area
-- **Corner indicators** for visual guidance
-- **Blurred background** areas outside the scanning frame
-- **Clean centered scanner view** with proper contrast
-- **Flash and camera flip controls** for enhanced functionality
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
